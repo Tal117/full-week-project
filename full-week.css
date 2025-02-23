@@ -1,0 +1,71 @@
+header{
+  margin-bottom: 64px;
+}
+
+
+h1 {
+  font-size: 48px;
+  color: rgb(4, 41, 54);
+  margin: 0;
+}
+
+#description{
+  margin: 12px;
+}
+
+/* header p{
+  margin-bottom: 36pxs;
+} */
+
+a {
+  padding: 12px 48px;
+  background-color: rgb(41, 133, 209);
+  color: white;
+  /* border-style: solid; */
+  border-radius: 8px;
+  /* border: 5px solid; */
+  font-size: 24px;
+  display: inline-block;
+  margin: 0;
+  }
+
+
+a:hover {
+  background-color: rgb(15, 190, 234);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 32px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  padding: 16px;
+  background-color: rgb(118, 157, 207);
+  font-family: "Fira Sans";
+  border-radius: 6px;
+  margin: 40px;
+  box-shadow: 1px 1px 4px midnightblue;
+}
+
+h2{
+  /* color: rgb(22, 22, 101); */
+  color: rgb(13, 65, 132);
+  font-family: 'Oswald', 'Sans serif';
+}
+
+main p{
+  margin-bottom: 10px;
+  color: rgb(7, 36, 48);
+}
+
+.highlight-goal{
+  background-color: rgb(93, 137, 195);
+}
+
+.highlight-goal-2{
+  background-color: rgb(77, 123, 182);
+}

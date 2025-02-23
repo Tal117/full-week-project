@@ -1,0 +1,50 @@
+/* body {
+    text-align: center;
+    background-color: rgb(222, 246, 255);
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 36px;
+}
+
+a {
+    font-family: 'Fira Sans', 'sans-serif';
+    color: rgb(24, 79, 198);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+} */
+
+body {
+    text-align: center;
+    /* background-color: rgb(222, 246, 255); */
+    background-color: rgb(197, 230, 247);
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 36px;
+    font-size: 24px;
+}
+
+a {
+    font-family: 'Fira Sans', 'sans-serif';
+    color: rgb(24, 79, 198);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
